@@ -1,59 +1,74 @@
-# 📊 Global Airbnb Analytics Dashboard  
+# 📊 Airbnb Analytics Dashboard | Data Analysis Project  
 
 ## 📌 Project Overview  
-This repository showcases a **Power BI dashboard** built using the dataset provided in the PDF :contentReference[oaicite:0]{index=0}.  
-The project focuses on analyzing Airbnb listings, pricing trends, and customer ratings across major global cities to generate actionable business insights.
+This project presents an **interactive Airbnb Analytics Dashboard** built to analyze global performance across multiple cities.  
+The dashboard provides insights into **listings trends, pricing, market distribution, and customer ratings** to support data-driven decision-making.  
 
 ---
 
-## 🎯 Objectives  
-- Analyze **growth trends** in Airbnb listings over time  
-- Understand **market distribution across top cities**  
+## 🎯 Objective  
+- Analyze **Airbnb listings growth over time**  
+- Identify **city-wise market share and concentration**  
 - Compare **pricing across property types**  
-- Evaluate **customer satisfaction metrics**  
+- Evaluate **customer satisfaction through ratings**  
+- Generate **actionable business insights**  
 
 ---
 
-## 📊 Key Insights  
-- Listings grew rapidly from **2010 to 2015**, followed by fluctuations and a sharp decline during **COVID-19**  
-- The **top 5 cities contribute ~68%** of total listings, showing strong market concentration  
-- **Paris leads** in total listings, indicating high tourism demand  
-- **Hotel rooms** have the highest average price, while **private rooms** are the most affordable  
-- **Mexico City and Rio de Janeiro** rank highest in overall ratings  
-- **Cleanliness and value** are comparatively lower across most cities  
+## 📊 Key Metrics  
+- 🏠 **279,712 Listings**  
+- 🌍 **10 Cities**  
+- 👤 **182,024 Hosts**  
+- 🏡 **144 Property Types**  
+- ⭐ **5.3M+ Reviews**  
 
 ---
 
-## 🛠 Tools & Technologies  
-- **Power BI** → Data visualization and dashboard creation  
-- **Power Query** → Data cleaning and preprocessing  
+## 📈 Key Insights  
+
+### 🚀 Listings Trend  
+- Rapid growth from **2010 to 2015** (peak year)  
+- Decline after 2016 due to **regulations & saturation**  
+- Significant drop during **COVID-19 (2020–2021)**  
+
+### 🌍 Market Analysis  
+- 🥇 Paris has the highest number of listings  
+- 📊 Top 5 cities contribute ~68% of total listings  
+- Listings are concentrated in **tourist-heavy cities**  
+
+### 💰 Pricing Analysis  
+- 🏨 Hotel Rooms → Highest price (~$800)  
+- 🏡 Entire Homes → High demand & pricing  
+- 🧍 Private Rooms → Most affordable option  
+
+### ⭐ Customer Ratings  
+- 🥇 Mexico City & Rio de Janeiro → Highest ratings  
+- ⚠️ Hong Kong & Istanbul → Lowest ratings  
+- 📞 Communication & Location score highest  
+- 🧼 Cleanliness & Value need improvement  
 
 ---
 
-## 📂 Repository Contents  
-- 📄 Dashboard visuals (PDF)  
-- 📊 Analytical insights derived from the dataset  
+## 🚀 Key Takeaways  
+- Airbnb growth is **event-driven and sensitive to global disruptions**  
+- Business heavily depends on **top cities and tourism demand**  
+- Improving **cleanliness & value** can enhance customer satisfaction  
+- **Entire homes in prime locations** generate maximum revenue  
 
 ---
 
-## 🚀 Skills Demonstrated  
-- Data Cleaning & Transformation  
-- Data Visualization & Dashboard Design  
-- Business Insight Generation  
-- Analytical Thinking  
+## 🛠️ Tools & Technologies  
+- 📊 Power BI / Excel  
+- 📈 Data Visualization  
+- 📂 Data Cleaning & Transformation  
+- 📉 Dashboard Design  
 
 ---
 
-## 💼 Use Case  
-This project simulates a real-world business scenario where companies analyze customer behavior, pricing strategies, and geographic trends to make **data-driven decisions**.
+## 🔗 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/anand-taori-71b862396/  
 
 ---
 
-## 🔗 Future Scope  
-- Integration with real-time datasets  
-- Advanced DAX calculations  
-- Deployment of interactive dashboards  
-
----
-
-⭐ If you found this project useful, consider giving it a star!
+## ⭐ If you like this project  
+Give it a ⭐ on GitHub and feel free to share your feedback!  
